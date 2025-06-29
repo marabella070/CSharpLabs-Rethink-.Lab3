@@ -1,3 +1,6 @@
 [submodule "CoreAPI"]
 	path = CoreAPI
 	url = https://github.com/marabella070/CSharpLabs-Rethink-.Lab3.CoreAPI
+[submodule "GUI"]
+	path = GUI
+	url = https://github.com/marabella070/CSharpLabs-Rethink-.Lab3.GUI
